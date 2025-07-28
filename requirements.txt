@@ -1,6 +1,0 @@
-streamlit
-streamlit-extras
-python-dotenv
-PyPDF2
-Pillow
-requests
